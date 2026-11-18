@@ -1,4 +1,4 @@
-# ⚽ Soccer YOLOv8: 공 · 선수 · 심판 감지와 추적, 팀 구분
+# ⚽ football YOLOv8: 공 · 선수 · 심판 감지와 추적, 팀 구분
 
 **직접 수집·라벨링한 축구 경기 이미지 143장**으로 COCO 사전학습 **YOLOv8n**을 fine-tuning했습니다.
 부류는 **ball, player, referee** 3개입니다.

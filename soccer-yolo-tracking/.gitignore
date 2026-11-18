@@ -1,0 +1,7 @@
+runs/
+data/football-image-dataset/
+videos/
+scripts/dataset/frames/
+scripts/dataset/review_*.jpg
+__pycache__/
+*.pyc

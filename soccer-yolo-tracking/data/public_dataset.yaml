@@ -1,0 +1,11 @@
+# Football (soccer) 3-class dataset
+# Images/labels: https://github.com/skaczylo/football-image-dataset (CC BY 4.0)
+# Run scripts/get_data.sh first; it clones the dataset into data/football-image-dataset
+path: data/football-image-dataset
+train: images/train   # 512 images
+val: images/val       # 100 images
+nc: 3
+names:
+  0: ball
+  1: player
+  2: referee
